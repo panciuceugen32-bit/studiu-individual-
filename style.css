@@ -1,0 +1,64 @@
+body {
+    background-color: #eeeeee;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    color: #333333;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: darkred;
+    border-bottom: 2px solid darkred;
+    padding-bottom: 5px;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 3px 8px gray;
+}
+
+th, td {
+    border: 1px solid #999999;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: darkred;
+    color: white;
+}
+
+tr:hover {
+    background-color: #ffe0e0;
+}
+
+ul {
+    background-color: white;
+    padding: 25px 40px;
+    border-radius: 10px;
+}
+
+li {
+    margin: 12px;
+}
+
+hr {
+    border: 1px solid darkred;
+}
+
+body {
+    border-top: 5px solid darkred;
+}
